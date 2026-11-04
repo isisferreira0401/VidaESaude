@@ -1,4 +1,4 @@
- Sistema de Gestão Hospitalar Vida & Saúde
+ #Sistema de Gestão Hospitalar Vida & Saúde
 
 Este repositório contém a modelagem e implementação do Banco de Dados Relacional para o Hospital Geral Vida & Saúde, desenvolvido como solução para a centralização, organização e análise dos dados operacionais da instituição.
 
