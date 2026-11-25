@@ -2,11 +2,11 @@
 
 Este repositório contém a modelagem e implementação do Banco de Dados Relacional para o Hospital Geral Vida & Saúde, desenvolvido como solução para a centralização, organização e análise dos dados operacionais da instituição.
 
-📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 O Hospital Geral Vida & Saúde operava anteriormente utilizando registros manuais e planilhas isoladas, gerando problemas operacionais graves. Para sanar esses gargalos, este banco de dados foi projetado em conformidade com as regras de integridade referencial e normalização até a 3ª Forma Normal (3FN).
 
-🎯 Principais Objetivos Alcançados:
+# 🎯 Principais Objetivos Alcançados:
 
 Modelagem Relacional: Estruturação de entidades para gerenciar pacientes, médicos, quartos, internações, consultas e prescrições.
 
@@ -14,7 +14,7 @@ Integridade Referencial: Prevenção contra exclusões acidentais de históricos
 
 Relatórios de Negócio: Desenvolvimento de 15 consultas SQL estratégicas (DQL) para suporte a tomada de decisões da diretoria, finanças, recepção e auditoria.
 
-🗂️ Estrutura do Banco de Dados
+# 🗂️ Estrutura do Banco de Dados
 
 O esquema do banco de dados hospital_db é composto por 6 tabelas interligadas:
 
@@ -30,7 +30,7 @@ consultas: Agendamento e realização de consultas médicas.
 
 prescricoes: Receituário de medicamentos associado às consultas realizadas.
 
-📁 Estrutura do Repositório
+# 📁 Estrutura do Repositório
 
 .
 ├── 01_ddl_criar_banco.sql       # Script DDL (Criação do Schema e Tabelas)
@@ -40,7 +40,7 @@ prescricoes: Receituário de medicamentos associado às consultas realizadas.
 
 
 
-📊 Consultas Estratégicas (DQL)
+# 📊 Consultas Estratégicas (DQL)
 
 O projeto inclui respostas SQL para 15 perguntas cruciais do negócio:
 
